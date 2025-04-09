@@ -1,6 +1,6 @@
 
 <p align="center">
-   <img src="https://www2.stardust-testing.com/hs-fs/hubfs/banner-automation.png?width=2550&height=995&name=banner-automation.png" alt="MasterHead">
+   <img src="./assets/1000011179.png" alt="MasterHead" width="2550" height="995">
  </p>
  <h1 align="center">
   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="50px">

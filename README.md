@@ -8,7 +8,7 @@
  </h1>
  <h3 align="center">A QA Tester from Tunisia</h3>
  <p align="center">
-   <img alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm53aDJwdDFqcnVuZzE3bzEycWR0ZGpvNDJwa2E5amg5dWx6OTV3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gG6OcTSRWaSis/giphy.gif">
+   <img alt="Coding" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm53aDJwdDFqcnVuZzE3bzEycWR0ZGpvNDJwa2E5amg5dWx6OTV3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gG6OcTSRWaSis/giphy.gif" style="max-width:100%; height:auto;>
  </p>
    
  

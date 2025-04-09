@@ -1,6 +1,6 @@
 
 <p align="center">
-   <img src="assets/1000011179.png" alt="MasterHead" width="2550" height="995">
+   <img src="assets/1000011179.png" alt="MasterHead" style="max-width:100%; height:auto;>
  </p>
  <h1 align="center">
   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="50px">
